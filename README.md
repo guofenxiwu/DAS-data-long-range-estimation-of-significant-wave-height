@@ -1,5 +1,5 @@
 # DAS-derived-long-range-estimation-of-significant-wave-height
-This repository accompanies the article "Long-Distance Estimation of Significant Wave Height Using Distributed Acoustic Sensing and Deep Learning" and contains all datasets and source codes used for figure generation and deep learning modeling presented in the study.
+This repository is dedicated to the article "Long-Distance Estimation of Significant Wave Height Using Distributed Acoustic Sensing and Deep Learning" and includes all datasets and source codes for figure generation and deep learning modeling in the study.
 
 ## Updates
 The code is being actively maintained and updated.
